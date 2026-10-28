@@ -1,0 +1,8 @@
+version: 0.0.179
+files:
+  - url: https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/download/cloud-v0.0.179/T3-Code-0.0.179-x64.exe
+    sha512: SoOUsYh5LL2PpIacoYwMknU9kGX6X9pO8B4U7ki/yvtc5kKsXGY8OIf1rZHYFlOOxGIvLfEFI4upknQBjttwKg==
+    size: 152480517
+path: https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/download/cloud-v0.0.179/T3-Code-0.0.179-x64.exe
+sha512: SoOUsYh5LL2PpIacoYwMknU9kGX6X9pO8B4U7ki/yvtc5kKsXGY8OIf1rZHYFlOOxGIvLfEFI4upknQBjttwKg==
+releaseDate: '2026-10-28T16:31:29.266Z'
