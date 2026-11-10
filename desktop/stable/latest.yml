@@ -1,8 +1,8 @@
-version: 0.0.259
+version: 0.0.260
 files:
-  - url: https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/download/cloud-v0.0.259/T3-Code-0.0.259-x64.exe
-    sha512: 5QtmVjjPC2K+adXbO+hlPimWtUbu6XFaHyYEK0Ls9xev77SXaxt3vBxZGoQCA8y3FLJ0K5aM+Rocxtax9KeEnA==
-    size: 177519518
-path: https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/download/cloud-v0.0.259/T3-Code-0.0.259-x64.exe
-sha512: 5QtmVjjPC2K+adXbO+hlPimWtUbu6XFaHyYEK0Ls9xev77SXaxt3vBxZGoQCA8y3FLJ0K5aM+Rocxtax9KeEnA==
-releaseDate: '2026-11-10T18:20:33.116Z'
+  - url: https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/download/cloud-v0.0.260/T3-Code-0.0.260-x64.exe
+    sha512: 2YnSj7ytPioNlp0aSQxS4BY5st8IKH2rPuQgdOwOkGpm2Cl0mJ3IS6PahL8uYDpH/0DfjP+m+7DOKSmKdyUKyg==
+    size: 177518317
+path: https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/download/cloud-v0.0.260/T3-Code-0.0.260-x64.exe
+sha512: 2YnSj7ytPioNlp0aSQxS4BY5st8IKH2rPuQgdOwOkGpm2Cl0mJ3IS6PahL8uYDpH/0DfjP+m+7DOKSmKdyUKyg==
+releaseDate: '2026-11-10T22:02:33.805Z'
