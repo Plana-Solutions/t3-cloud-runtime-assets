@@ -1,8 +1,8 @@
-version: 0.0.264
+version: 0.0.265
 files:
-  - url: https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/download/cloud-v0.0.264/T3-Code-0.0.264-x64.exe
-    sha512: np/vaXtrz5CLXybolD/kBVaTmEgEvvz+lHBnZwehqKUoXkTeYM1iVPvAq5XEEZWU4onw6uwhmJmD1zVaMQFlKg==
-    size: 177522233
-path: https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/download/cloud-v0.0.264/T3-Code-0.0.264-x64.exe
-sha512: np/vaXtrz5CLXybolD/kBVaTmEgEvvz+lHBnZwehqKUoXkTeYM1iVPvAq5XEEZWU4onw6uwhmJmD1zVaMQFlKg==
-releaseDate: '2026-11-11T22:01:03.820Z'
+  - url: https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/download/cloud-v0.0.265/T3-Code-0.0.265-x64.exe
+    sha512: r2O4znkC2tj/DIklUauLEzWL4z+98Im7xoNGHoE+Kc/vbcNMvNvPmuVpbkUNicKv2XarK+kN/qxu8qg4gY8awg==
+    size: 177523389
+path: https://github.com/Plana-Solutions/t3-cloud-runtime-assets/releases/download/cloud-v0.0.265/T3-Code-0.0.265-x64.exe
+sha512: r2O4znkC2tj/DIklUauLEzWL4z+98Im7xoNGHoE+Kc/vbcNMvNvPmuVpbkUNicKv2XarK+kN/qxu8qg4gY8awg==
+releaseDate: '2026-11-12T11:01:47.030Z'
